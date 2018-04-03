@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fel.operatordynamic.uilib.CenterView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/drag_center_side"
+    android:padding="5dip"
+    >
+    <ImageView
+        android:id="@+id/center_pic"
+        android:scaleType="fitXY"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+</fel.operatordynamic.uilib.CenterView>
+    
+
